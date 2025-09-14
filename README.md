@@ -1,2 +1,1 @@
-# MoneyMakerAI
-A$B*BigMoneyMaker
+A$B(MoneyMaker)
